@@ -1,0 +1,28 @@
+body
+{
+	background-image: url(http://wallpaperlepi.com/wp-content/uploads/2014/12/Cute-Dog-Wallpaper-Animal.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+.dollu
+{
+	color:white;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 100px;
+    text-align: center;
+
+}
+html
+{
+	height:100%;
+}
+.dolla
+{
+	margin-top: 10%;
+}
+.biba
+{
+	margin-top: 10%;
+	margin-left: 40%;
+}
